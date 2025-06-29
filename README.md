@@ -10,6 +10,7 @@
 
 - [KernelSU](https://github.com/tiann/KernelSU)：原始项目
 - [MKSU](https://github.com/5ec1cff/KernelSU)：使用的项目
+- [SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)：使用的项目
 - [RKSU](https://github.com/rsuntk/KernelsU)：使用该项目的 kernel 对非 GKI 设备重新进行支持
 - [susfs4ksu](https://gitlab.com/simonpunk/susfs4ksu)：使用的 susfs 文件系统
 - [kernel-assisted-superuser](https://git.zx2c4.com/kernel-assisted-superuser/about/)：KernelSU 的构想
