@@ -6,7 +6,7 @@
 > [!IMPORTANT]
 > This project only supports Simplified Chinese!
 
-## 贡献
+## 感谢
 
 - [KernelSU](https://github.com/tiann/KernelSU)：原始项目
 - [MKSU](https://github.com/5ec1cff/KernelSU)：使用的项目
